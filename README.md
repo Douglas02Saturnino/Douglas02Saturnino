@@ -1,6 +1,6 @@
-### Olá! Eu sou o Douglas Saturnino, Empreendedor, Cientista de Dados e Desenvolvedor. 
+### Olá! Eu sou o Douglas Saturnino, Cientista de Dados e Desenvolvedor. 
 - 🚀 Apaixonado pela Tecnologia e Empreendedorismo, buscando criar empreendimentos tecnologicos.
-- 📝 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Estacio.
+- 📝 Atualmente estou cursando Pós Graduação em Inteligência Artificial e Aprendizado de Máquina na PUC Minas.
 - 💻 Atuo como Analista de Desenvolvimento de Sistemas no Centro Oftalmológico de Minas Gerais.
 
 ##
