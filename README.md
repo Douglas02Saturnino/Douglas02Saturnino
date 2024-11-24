@@ -5,14 +5,12 @@
 
 ##
 
-<div style="display: inline-block">
-  <a href="https://github.com/Douglas02Saturnino">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Douglas02Saturnino&show_icons=true&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas02Saturnino&layout=compact&langs_count=10&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9"/>
-</div>
-  
-<br>
-  
+![Douglas02Saturnino's Stats](https://github-readme-stats.vercel.app/api?username=Douglas02Saturnino&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![Douglas02Saturnino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Douglas02Saturnino&theme=vue-dark&hide_border=false)
+
+![Douglas02Saturnino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas02Saturnino&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Douglas-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
@@ -25,11 +23,4 @@
 </div>
 
 ##
-
-<div>
-<a href="https://www.linkedin.com/in/douglas-saturnino-05ab17194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:douglas02saturnino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-
-![Douglas02Saturnino's Stats](https://github-readme-stats.vercel.app/api?username=Douglas02Saturnino&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  
