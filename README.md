@@ -30,3 +30,6 @@
 <a href="https://www.linkedin.com/in/douglas-saturnino-05ab17194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:douglas02saturnino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
+![Douglas02Saturnino's Stats](https://github-readme-stats.vercel.app/api?username=Douglas02Saturnino&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
