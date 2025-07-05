@@ -2,6 +2,7 @@
 - 🚀 Apaixonado pela Tecnologia e Empreendedorismo, buscando criar empreendimentos tecnológicos.
 - 📝 Atualmente estou cursando Pós Graduação em Inteligência Artificial e Aprendizado de Máquina na PUC Minas.
 - 💻 Atuo como Engenheiro de Dados na Accenture.
+- Link: https://github.com/anuraghazra/github-readme-stats
 
 ### Conecte-se comigo
 
