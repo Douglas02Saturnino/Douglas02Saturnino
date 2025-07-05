@@ -3,6 +3,7 @@
 - 📝 Atualmente estou cursando Pós Graduação em Inteligência Artificial e Aprendizado de Máquina na PUC Minas.
 - 💻 Atuo como Engenheiro de Dados na Accenture.
 - Link: https://github.com/anuraghazra/github-readme-stats
+- Link para geração: https://profile-readme-generator.com/pt-BR
 
 ### Conecte-se comigo
 
