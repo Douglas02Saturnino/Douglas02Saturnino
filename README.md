@@ -1,7 +1,7 @@
-### Olá! Eu sou o Douglas Saturnino, Cientista de Dados e Desenvolvedor. 
+### Olá! Eu sou o Douglas Saturnino, Engenheiro de Machine Learning e Desenvolvedor Python. 
 - 🚀 Apaixonado pela Tecnologia e Empreendedorismo, buscando criar empreendimentos tecnológicos.
 - 📝 Atualmente estou cursando Pós Graduação em Inteligência Artificial e Aprendizado de Máquina na PUC Minas.
-- 💻 Atuo como Analista de Desenvolvimento de Sistemas no Centro Oftalmológico de Minas Gerais.
+- 💻 Atuo como Engenheiro de Dados na Accenture.
 
 ### Conecte-se comigo
 
