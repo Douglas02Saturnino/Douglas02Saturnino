@@ -67,10 +67,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=Douglas02Saturnino&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy graph" />
 </div>
 
-
-<img src="https://raw.githubusercontent.com/Douglas02Saturnino/Douglas02Saturnino/output/snake.svg" alt="Snake animation" />
-
-
 ###
 
 <picture>
@@ -80,3 +76,5 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Douglas02Saturnino/Douglas02Saturnino/output/snake.svg" alt="Snake animation" />
