@@ -76,3 +76,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Douglas02Saturnino/Douglas02Saturnino/output/snake.svg" alt="Snake animation" />
+
+###
